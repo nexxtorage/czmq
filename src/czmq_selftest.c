@@ -66,7 +66,7 @@ all_tests [] = {
     { "ztrie", ztrie_test },
 #endif // CZMQ_BUILD_DRAFT_API
 #ifdef CZMQ_BUILD_DRAFT_API
-    { "private_classes", czmq_private_selftest },
+    //{ "private_classes", czmq_private_selftest },
 #endif // CZMQ_BUILD_DRAFT_API
     {0, 0}          //  Sentinel
 };
