@@ -19,7 +19,7 @@
         <copyright>Copyright the AUTHORS</copyright>
         <tags>native</tags>
         <dependencies>
-            <dependency id="libzmq_vc120" version="4.2.0.0" />
+            <dependency id="libzmq_vc120" version="4.2.3.0" />
         </dependencies>
     </metadata>
     <files>
