@@ -61,9 +61,9 @@ all_tests [] = {
     { "zsys", zsys_test },
 #ifdef CZMQ_BUILD_DRAFT_API
 // Tests for draft public classes:
-    { "zproc", zproc_test },
-    { "ztimerset", ztimerset_test },
-    { "ztrie", ztrie_test },
+    //{ "zproc", zproc_test },
+    //{ "ztimerset", ztimerset_test },
+    //{ "ztrie", ztrie_test },
 #endif // CZMQ_BUILD_DRAFT_API
 #ifdef CZMQ_BUILD_DRAFT_API
     //{ "private_classes", czmq_private_selftest },
