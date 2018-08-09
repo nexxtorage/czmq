@@ -7,9 +7,9 @@
 -->
 <package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
     <metadata minClientVersion="2.5">
-        <id>czmq_vc140</id>
+        <id>czmq-vc140</id>
         <version>4.0.3.0</version>
-        <title>czmq_vc140</title>
+        <title>czmq-vc140</title>
         <authors>See AUTHORS</authors>
         <owners>Eric Voskuil</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
